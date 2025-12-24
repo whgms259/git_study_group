@@ -72,6 +72,7 @@ git remote -v
  최초 업로드
 
 git push -u origin main #오류가 생기면 git push -u origin master를 입력 master가 기본값임 master도 안되면 저장소의 설정 들어가서 디폴트 브랜치 확인할 것
+                        #현재 이 단계까지 진행해봄
 
 ✅ 5단계: clone 실습 (다른 PC / 폴더)
 
@@ -200,4 +201,3 @@ cat ~/.ssh/id_rsa.pub
 
  SSH로 인증 문제 없음
 
- 
